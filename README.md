@@ -60,23 +60,12 @@ pyinstaller --onefile --noconsole --icon=robospeaker.ico robospeaker_gui.py
 
 Made with 💙 by **Sujal Kushwaha**
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [https://github.com/sujal-creator](https://github.com/sujal-creator)  
+- LinkedIn: [https://www.linkedin.com/in/sujal-kushwaha-0b4aa82a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B51kTNksDRvyjlkYgjo%2BC%2Fw%3D%3D](https://www.linkedin.com/in/sujal-kushwaha-0b4aa82a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7AVWdZhiTjOVRWnyi0XTcw%3D%3D)
 
 ---
 
-## 📸 Screenshots 
 
-
-
-```
-![RoboSpeaker Screenshot](screenshot.png.png)
-
-
-
-```
-
----
 
 ## 📃 License
 
